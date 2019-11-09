@@ -1,0 +1,28 @@
+Command line:
+   fdc_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50038
+
+Sun Nov 10 00:10:56 2019
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 1043.43 Meg
+
+ Total Signals          : 11
+ Total Nets             : 6
+ Total Signal Drivers   : 6
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 6
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 367
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 1358 Meg
+
+Sun Nov 10 00:11:27 2019
+

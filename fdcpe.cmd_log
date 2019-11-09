@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/fdcpe.xst" -ofn "E:/xilinx/projects/lab3-4/fdcpe.syr" 
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/fdcpe.xst" -ofn "E:/xilinx/projects/lab3-4/fdcpe.syr" 
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/fdcpe.xst" -ofn "E:/xilinx/projects/lab3-4/fdcpe.syr" 
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/fdcpe.xst" -ofn "E:/xilinx/projects/lab3-4/fdcpe.syr" 
