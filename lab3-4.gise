@@ -43,12 +43,58 @@
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="d_latch.syr"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="d_latch.xst"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="d_latch_TB_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="d_latch_TB_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="d_latch_beh.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="d_latch_beh.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="d_latch_beh.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="d_latch_beh.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="d_latch_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="d_latch_beh.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="d_latch_beh.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="d_latch_beh.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="d_latch_beh_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="d_latch_beh_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="d_latch_beh_xst.xrpt"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="d_latch_envsettings.html"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="d_latch_summary.html"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="d_latch_xst.xrpt"/>
-    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="de_latch_TB_beh.prj"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="de_latch_TB_isim_beh.exe"/>
-    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="de_latch_TB_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="de_latch_beh.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="de_latch_beh.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="de_latch_beh.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="de_latch_beh.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="de_latch_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="de_latch_beh.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="de_latch_beh.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="de_latch_beh.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="de_latch_beh_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="de_latch_beh_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="dec_latch.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="dec_latch.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="dec_latch.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="dec_latch.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dec_latch.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="dec_latch.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="dec_latch.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="dec_latch.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="dec_latch_TB_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dec_latch_TB_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="dec_latch_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="dec_latch_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="dec_latch_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="dep_latch.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="dep_latch.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="dep_latch.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="dep_latch.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dep_latch.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="dep_latch.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="dep_latch.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="dep_latch.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dep_latch_TB_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="dep_latch_TB_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="dep_latch_TB_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="dep_latch_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="dep_latch_xst.xrpt"/>
     <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
@@ -108,7 +154,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1573304420" xil_pn:in_ck="2837022172000747453" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1573304420">
+    <transform xil_pn:end_ts="1573325870" xil_pn:in_ck="2290283104557904989" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1573325869">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="bistable.vhd"/>
@@ -123,6 +169,10 @@
       <outfile xil_pn:name="de_latch_beh.vhd"/>
       <outfile xil_pn:name="de_latch_param.vhd"/>
       <outfile xil_pn:name="de_latch_struct.vhd"/>
+      <outfile xil_pn:name="dec_latch.vhd"/>
+      <outfile xil_pn:name="dec_latch_TB.vhd"/>
+      <outfile xil_pn:name="dep_latch.vhd"/>
+      <outfile xil_pn:name="dep_latch_TB.vhd"/>
       <outfile xil_pn:name="invert.vhd"/>
       <outfile xil_pn:name="nor_el.vhd"/>
       <outfile xil_pn:name="not_el.vhd"/>
@@ -132,19 +182,19 @@
       <outfile xil_pn:name="rs_latch_param.vhd"/>
       <outfile xil_pn:name="rs_latch_struct.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1573304398" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="4157583528925804905" xil_pn:start_ts="1573304398">
+    <transform xil_pn:end_ts="1573315426" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-8305797926001848615" xil_pn:start_ts="1573315426">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1573304398" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-5425121115669462233" xil_pn:start_ts="1573304398">
+    <transform xil_pn:end_ts="1573315426" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-1451758060975261545" xil_pn:start_ts="1573315426">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1573304213" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5354886855067738131" xil_pn:start_ts="1573304213">
+    <transform xil_pn:end_ts="1573315351" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5422407270453793272" xil_pn:start_ts="1573315351">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1573304420" xil_pn:in_ck="2837022172000747453" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1573304420">
+    <transform xil_pn:end_ts="1573325870" xil_pn:in_ck="2290283104557904989" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1573325870">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="bistable.vhd"/>
@@ -159,6 +209,10 @@
       <outfile xil_pn:name="de_latch_beh.vhd"/>
       <outfile xil_pn:name="de_latch_param.vhd"/>
       <outfile xil_pn:name="de_latch_struct.vhd"/>
+      <outfile xil_pn:name="dec_latch.vhd"/>
+      <outfile xil_pn:name="dec_latch_TB.vhd"/>
+      <outfile xil_pn:name="dep_latch.vhd"/>
+      <outfile xil_pn:name="dep_latch_TB.vhd"/>
       <outfile xil_pn:name="invert.vhd"/>
       <outfile xil_pn:name="nor_el.vhd"/>
       <outfile xil_pn:name="not_el.vhd"/>
@@ -168,26 +222,66 @@
       <outfile xil_pn:name="rs_latch_param.vhd"/>
       <outfile xil_pn:name="rs_latch_struct.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1573304424" xil_pn:in_ck="2837022172000747453" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-1529847972653884152" xil_pn:start_ts="1573304420">
+    <transform xil_pn:end_ts="1573325872" xil_pn:in_ck="2290283104557904989" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-7523935800791044472" xil_pn:start_ts="1573325870">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="de_latch_TB_beh.prj"/>
-      <outfile xil_pn:name="de_latch_TB_isim_beh.exe"/>
+      <outfile xil_pn:name="dep_latch_TB_beh.prj"/>
+      <outfile xil_pn:name="dep_latch_TB_isim_beh.exe"/>
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
       <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1573304424" xil_pn:in_ck="959423985169321077" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4162452377415803467" xil_pn:start_ts="1573304424">
+    <transform xil_pn:end_ts="1573325873" xil_pn:in_ck="8220448396334477100" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4036182778129324971" xil_pn:start_ts="1573325872">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="de_latch_TB_isim_beh.wdb"/>
+      <outfile xil_pn:name="dep_latch_TB_isim_beh.wdb"/>
       <outfile xil_pn:name="isim.cmd"/>
       <outfile xil_pn:name="isim.log"/>
     </transform>
-    <transform xil_pn:end_ts="1573119736" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1573119736">
+    <transform xil_pn:end_ts="1573308690" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1573308690">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315203" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-8263965700211664657" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315203" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="5422407270453793272" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315203" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315203" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="3014555726879213425" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315203" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="250970745411629038" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315203" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-21863231309880254" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1573315210" xil_pn:in_ck="7191551551174499595" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-412859284466257529" xil_pn:start_ts="1573315203">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="dep_latch.lso"/>
+      <outfile xil_pn:name="dep_latch.ngc"/>
+      <outfile xil_pn:name="dep_latch.ngr"/>
+      <outfile xil_pn:name="dep_latch.prj"/>
+      <outfile xil_pn:name="dep_latch.stx"/>
+      <outfile xil_pn:name="dep_latch.syr"/>
+      <outfile xil_pn:name="dep_latch.xst"/>
+      <outfile xil_pn:name="dep_latch_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
     </transform>
   </transforms>
 

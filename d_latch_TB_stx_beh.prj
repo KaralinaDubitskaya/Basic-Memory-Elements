@@ -1,0 +1,7 @@
+vhdl isim_temp "nor_el.vhd"
+vhdl isim_temp "invert.vhd"
+vhdl isim_temp "d_latch_struct.vhd"
+vhdl isim_temp "d_latch_param.vhd"
+vhdl isim_temp "d_latch_beh.vhd"
+vhdl isim_temp "d_latch.vhd"
+vhdl isim_temp "d_latch_TB.vhd"

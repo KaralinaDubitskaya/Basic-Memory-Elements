@@ -1,31 +1,19 @@
-Running: E:\xilinx1\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/xilinx/projects/lab3-4/de_latch_TB_isim_beh.exe -prj E:/xilinx/projects/lab3-4/de_latch_TB_beh.prj work.de_latch_TB 
+Running: E:\xilinx1\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/xilinx/projects/lab3-4/dep_latch_TB_isim_beh.exe -prj E:/xilinx/projects/lab3-4/dep_latch_TB_beh.prj work.dep_latch_TB 
 ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 8
 Turning on mult-threading, number of parallel sub-compilation jobs: 16 
 Determining compilation order of HDL files
-Parsing VHDL file "E:/xilinx/projects/lab3-4/not_el.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/nor_el.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/invert.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/de_latch_struct.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/de_latch_param.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/de_latch_beh.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/de_latch.vhd" into library work
-Parsing VHDL file "E:/xilinx/projects/lab3-4/de_latch_TB.vhd" into library work
+Parsing VHDL file "E:/xilinx/projects/lab3-4/dep_latch.vhd" into library work
+Parsing VHDL file "E:/xilinx/projects/lab3-4/dep_latch_TB.vhd" into library work
 Starting static elaboration
 Completed static elaboration
 Compiling package standard
 Compiling package std_logic_1164
-Compiling architecture behavioral of entity de_latch_beh [de_latch_beh_default]
-Compiling architecture behavioral of entity invert [invert_default]
-Compiling architecture behavioral of entity and_el [and_el_default]
-Compiling architecture behavioral of entity nor_el [nor_el_default]
-Compiling architecture struct of entity de_latch_struct [de_latch_struct_default]
-Compiling architecture param of entity de_latch_param [de_latch_param_default]
-Compiling architecture behavioral of entity de_latch [de_latch_default]
-Compiling architecture behavior of entity de_latch_tb
+Compiling architecture behavioral of entity dep_latch [dep_latch_default]
+Compiling architecture behavior of entity dep_latch_tb
 Time Resolution for simulation is 1ps.
 Waiting for 1 sub-compilation(s) to finish...
-Compiled 17 VHDL Units
-Built simulation executable E:/xilinx/projects/lab3-4/de_latch_TB_isim_beh.exe
-Fuse Memory Usage: 29948 KB
-Fuse CPU Usage: 608 ms
+Compiled 5 VHDL Units
+Built simulation executable E:/xilinx/projects/lab3-4/dep_latch_TB_isim_beh.exe
+Fuse Memory Usage: 29772 KB
+Fuse CPU Usage: 374 ms

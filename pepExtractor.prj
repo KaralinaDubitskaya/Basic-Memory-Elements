@@ -1,7 +1,1 @@
-work	"de_latch.vhd"
-work	"de_latch_beh.vhd"
-work	"de_latch_param.vhd"
-work	"de_latch_struct.vhd"
-work	"invert.vhd"
-work	"nor_el.vhd"
-work	"not_el.vhd"
+work	"dep_latch.vhd"

@@ -37,10 +37,10 @@ end d_latch_beh;
 
 architecture Behavioral of d_latch_beh is
 
-	signal S1, S2, nD : STD_LOGIC;
+	signal nD, S1, S2 : STD_LOGIC;
 
 begin
-
+ 
 	nD <= not D;
 	S2 <= D nor S1;
 	S1 <= nD nor S2;

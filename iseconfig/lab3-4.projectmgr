@@ -9,9 +9,12 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/bistable - Behavioral E:|xilinx|projects|lab3-4|bistable.vhd</ClosedNode>
          <ClosedNode>/bistable - Struct E:|xilinx|projects|lab3-4|bistable.vhd</ClosedNode>
-         <ClosedNode>/d_latch - Behavioral E:|xilinx|projects|lab3-4|d_latch.vhd</ClosedNode>
+         <ClosedNode>/d_latch - Behavioral E:|xilinx|projects|lab3-4|d_latch.vhd/beh - d_latch_beh - Behavioral</ClosedNode>
+         <ClosedNode>/d_latch - Behavioral E:|xilinx|projects|lab3-4|d_latch.vhd/param - d_latch_param - Behavioral</ClosedNode>
          <ClosedNode>/d_latch - Behavioral E:|xilinx|projects|lab3-4|d_latch.vhd/str - d_latch_struct - Struct</ClosedNode>
          <ClosedNode>/d_latch_struct - Struct E:|xilinx|projects|lab3-4|d_latch_struct.vhd</ClosedNode>
+         <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd</ClosedNode>
+         <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd/beh - de_latch_beh - Behavioral</ClosedNode>
          <ClosedNode>/de_latch_struct - Struct E:|xilinx|projects|lab3-4|de_latch_struct.vhd</ClosedNode>
          <ClosedNode>/rs_latch - Behavioral E:|xilinx|projects|lab3-4|rs_latch.vhd</ClosedNode>
          <ClosedNode>/rs_latch - Behavioral E:|xilinx|projects|lab3-4|rs_latch.vhd/u1 - rs_latch_struct - Struct</ClosedNode>
@@ -21,13 +24,13 @@
          <ClosedNode>/rs_latch_struct - Struct E:|xilinx|projects|lab3-4|rs_latch_struct.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>d_latch - Behavioral (E:/xilinx/projects/lab3-4/d_latch.vhd)</SelectedItem>
+         <SelectedItem>beh - d_latch_beh - Behavioral (E:/xilinx/projects/lab3-4/d_latch_beh.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000014e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000014e0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000183000000020000000000000000000000000200000064ffffffff000000810000000300000002000001830000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>d_latch - Behavioral (E:/xilinx/projects/lab3-4/d_latch.vhd)</CurrentItem>
+      <CurrentItem>beh - d_latch_beh - Behavioral (E:/xilinx/projects/lab3-4/d_latch_beh.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -42,7 +45,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e70000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016d0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>View RTL Schematic</CurrentItem>
    </ItemView>
@@ -81,7 +84,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
@@ -89,18 +92,23 @@
       <ClosedNodes>
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/bistable_TB - behavior E:|xilinx|projects|lab3-4|bistable_TB.vhd</ClosedNode>
+         <ClosedNode>/d_latch_TB - behavior E:|xilinx|projects|lab3-4|d_latch_TB.vhd</ClosedNode>
+         <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd</ClosedNode>
+         <ClosedNode>/de_latch_TB - behavior E:|xilinx|projects|lab3-4|de_latch_TB.vhd</ClosedNode>
+         <ClosedNode>/de_latch_struct - Struct E:|xilinx|projects|lab3-4|de_latch_struct.vhd</ClosedNode>
          <ClosedNode>/rs_latch - Struct E:|xilinx|projects|lab3-4|rs_latch.vhd</ClosedNode>
          <ClosedNode>/rs_latch_TB - behavior E:|xilinx|projects|lab3-4|rs_latch_TB.vhd</ClosedNode>
          <ClosedNode>/rs_latch_TB - behavior E:|xilinx|projects|lab3-4|rs_latch_TB.vhd/uut - rs_latch - Behavioral/u1 - rs_latch_struct - Struct</ClosedNode>
+         <ClosedNode>/testbench - behavior E:|xilinx|projects|lab3-4|de_latch_TB.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>rs_latch_TB - behavior (E:/xilinx/projects/lab3-4/rs_latch_TB.vhd)</SelectedItem>
+         <SelectedItem>de_latch_TB - behavior (E:/xilinx/projects/lab3-4/de_latch_TB.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000117000000020000000000000000000000000200000064ffffffff000000810000000300000002000001170000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000011d000000020000000000000000000000000200000064ffffffff0000008100000003000000020000011d0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>rs_latch_TB - behavior (E:/xilinx/projects/lab3-4/rs_latch_TB.vhd)</CurrentItem>
+      <CurrentItem>de_latch_TB - behavior (E:/xilinx/projects/lab3-4/de_latch_TB.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -108,13 +116,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -125,7 +133,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>Simulate Behavioral Model</CurrentItem>
    </ItemView>
@@ -165,7 +173,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>

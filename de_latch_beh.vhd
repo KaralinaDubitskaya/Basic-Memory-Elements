@@ -38,14 +38,19 @@ end de_latch_beh;
 
 architecture Behavioral of de_latch_beh is
 
-	signal S1, S2 : STD_LOGIC;
+	signal data : STD_LOGIC;
 	
 begin
 
-	S2 <= (E and D) nor S1;
-	S1 <= (E and (not D)) nor S2;
-	Q <= S1;
-	nQ <= S2;
+	main: process ( D, E )
+	begin
+		if E = '1' then
+			data <= D;
+		end if;
+	end process;
+
+	Q <= data;
+	nQ <= not data;
 	
 end Behavioral;
 

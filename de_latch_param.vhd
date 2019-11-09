@@ -38,14 +38,19 @@ end de_latch_param;
 
 architecture Param of de_latch_param is
 
-	signal S1, S2 : STD_LOGIC;
+	signal data : STD_LOGIC;
 
 begin
 
-	S2 <= inertial(E and D) nor S1 after 2 ns;
-	S1 <= inertial(E and (not D)) nor S2 after 2 ns;
-	Q <= transport S1 after 2 ns;
-	nQ <= transport S2 after 2 ns;
+	main: process ( D, E )
+	begin
+		if E = '1' then
+			data <= inertial D after 2 ns;
+		end if;
+	end process;
+
+	Q <= transport data after 2 ns;
+	nQ <= transport not data after 2 ns;
 
 end Param;
 
