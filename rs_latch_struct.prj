@@ -1,0 +1,2 @@
+vhdl work "nor_el.vhd"
+vhdl work "rs_latch_struct.vhd"

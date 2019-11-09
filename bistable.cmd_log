@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/bistable.xst" -ofn "E:/xilinx/projects/lab3-4/bistable.syr" 

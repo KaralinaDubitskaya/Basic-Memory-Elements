@@ -1,0 +1,8 @@
+vhdl work "not_el.vhd"
+vhdl work "nor_el.vhd"
+vhdl work "invert.vhd"
+vhdl work "de_latch_struct.vhd"
+vhdl work "de_latch_param.vhd"
+vhdl work "de_latch_beh.vhd"
+vhdl work "de_latch.vhd"
+vhdl work "de_latch_TB.vhd"

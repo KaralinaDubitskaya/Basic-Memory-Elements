@@ -1,0 +1,6 @@
+vhdl work "nor_el.vhd"
+vhdl work "invert.vhd"
+vhdl work "d_latch_struct.vhd"
+vhdl work "d_latch_param.vhd"
+vhdl work "d_latch_beh.vhd"
+vhdl work "d_latch.vhd"

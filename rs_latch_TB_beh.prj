@@ -1,0 +1,6 @@
+vhdl work "nor_el.vhd"
+vhdl work "rs_latch_struct.vhd"
+vhdl work "rs_latch_param.vhd"
+vhdl work "rs_latch_beh.vhd"
+vhdl work "rs_latch.vhd"
+vhdl work "rs_latch_TB.vhd"
