@@ -38,14 +38,23 @@ end rs_latch_param;
 
 architecture Param of rs_latch_param is
 
-	signal S1, S2 : STD_LOGIC;
+	signal data : STD_LOGIC;
 
 begin
 
-	S1 <= inertial S nor S2 after 1 ns;
-	S2 <= inertial R nor S1 after 1 ns;
-	Q  <= transport S2 after 1 ns;
-	nQ <= transport S1 after 1 ns;
+	 main : process( R, S )
+	 begin
+		 if R = '1' then
+			  data <= inertial '0' after 2 ns;
+		 elsif S = '1' then
+			  data <= inertial '1' after 2 ns;
+		 else
+			  data <= inertial data after 2 ns;
+		 end if;
+	 end process;
+	 
+	 Q <= transport data after 2 ns;
+	 nQ <= transport not data after 2 ns;
 
 end Param;
 

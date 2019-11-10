@@ -37,15 +37,19 @@ end d_latch_beh;
 
 architecture Behavioral of d_latch_beh is
 
-	signal nD, S1, S2 : STD_LOGIC;
+	signal data : STD_LOGIC;
 
 begin
- 
-	nD <= not D;
-	S2 <= D nor S1;
-	S1 <= nD nor S2;
-	Q <= S1;
-	nQ <= S2;
+
+	 main : process( D )
+	 begin
+		 if data /= D then
+			  data <= D;
+		 end if;
+	 end process;
+	 
+	 Q <= data;
+	 nQ <= not data;
 	
 end Behavioral;
 

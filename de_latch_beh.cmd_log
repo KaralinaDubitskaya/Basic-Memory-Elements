@@ -1,1 +1,2 @@
 xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/de_latch_beh.xst" -ofn "E:/xilinx/projects/lab3-4/de_latch_beh.syr" 
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/de_latch_beh.xst" -ofn "E:/xilinx/projects/lab3-4/de_latch_beh.syr" 

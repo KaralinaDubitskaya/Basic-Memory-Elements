@@ -36,16 +36,20 @@ entity d_latch_param is
 end d_latch_param;
 
 architecture Behavioral of d_latch_param is
-
-	signal S1, S2, nD : STD_LOGIC;
+	
+	signal data : STD_LOGIC;
 
 begin
 
-	nD <= inertial not D after 1 ns;
-	S2 <= inertial D nor S1 after 1 ns;
-	S1 <= inertial nD nor S2 after 1 ns;
-	Q <= transport S1 after 1 ns;
-	nQ <= transport S2 after 1 ns;
+	 main : process( D )
+	 begin
+		 if data /= D then
+			  data <= inertial D after 2 ns;
+		 end if;
+	 end process;
+	 
+	 Q <= transport data after 2 ns;
+	 nQ <= transport not data after 2 ns;
 	
 end Behavioral;
 

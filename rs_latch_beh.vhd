@@ -38,14 +38,23 @@ end rs_latch_beh;
 
 architecture Behavioral of rs_latch_beh is
 
-	signal S1, S2 : STD_LOGIC;
+	signal data : STD_LOGIC;
 
 begin
 
-	S2 <= S nor S1;
-	S1 <= R nor S2;
-	Q <= S1;
-	nQ <= S2;
+	 main : process( R, S )
+	 begin
+		 if R = '1' then
+			  data <= '0';
+		 elsif S = '1' then
+			  data <= '1';
+		 else
+			  data <= data;
+		 end if;
+	 end process;
+	 
+	 Q <= data;
+	 nQ <= not data;
 
 end Behavioral;
 
