@@ -1,0 +1,2 @@
+vhdl work "signature_analizer.vhd"
+vhdl work "signature_analizer_TB.vhd"

@@ -16,24 +16,40 @@
          <ClosedNode>/d_latch_struct - Struct E:|xilinx|projects|lab3-4|d_latch_struct.vhd</ClosedNode>
          <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd</ClosedNode>
          <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd/beh - de_latch_beh - Behavioral</ClosedNode>
+         <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd/par - de_latch_param - Param</ClosedNode>
+         <ClosedNode>/de_latch - Behavioral E:|xilinx|projects|lab3-4|de_latch.vhd/str - de_latch_struct - Struct</ClosedNode>
          <ClosedNode>/de_latch_struct - Struct E:|xilinx|projects|lab3-4|de_latch_struct.vhd</ClosedNode>
          <ClosedNode>/dec_latch - Behavioral E:|xilinx|projects|lab3-4|dec_latch.vhd</ClosedNode>
          <ClosedNode>/dep_latch - Behavioral E:|xilinx|projects|lab3-4|dep_latch.vhd</ClosedNode>
+         <ClosedNode>/fd - Behavioral E:|xilinx|projects|lab3-4|dff.vhd</ClosedNode>
+         <ClosedNode>/fd_master_slave - Behavioral E:|xilinx|projects|lab3-4|fd_master_slave.vhd</ClosedNode>
+         <ClosedNode>/fdc - Behavioral E:|xilinx|projects|lab3-4|fdc.vhd</ClosedNode>
+         <ClosedNode>/fdcpe - Behavioral E:|xilinx|projects|lab3-4|fdcpe.vhd</ClosedNode>
+         <ClosedNode>/fde - Behavioral E:|xilinx|projects|lab3-4|fde.vhd</ClosedNode>
+         <ClosedNode>/fdp - Behavioral E:|xilinx|projects|lab3-4|fdp.vhd</ClosedNode>
+         <ClosedNode>/fjk - Behavioral E:|xilinx|projects|lab3-4|fjk.vhd</ClosedNode>
+         <ClosedNode>/frs - Behavioral E:|xilinx|projects|lab3-4|frs.vhd</ClosedNode>
+         <ClosedNode>/ft - Behavioral E:|xilinx|projects|lab3-4|ftc.vhd</ClosedNode>
+         <ClosedNode>/reg_async_struct - Behavioral E:|xilinx|projects|lab3-4|reg_async_struct.vhd</ClosedNode>
+         <ClosedNode>/reg_sync_struct - Behavioral E:|xilinx|projects|lab3-4|reg_sync_struct.vhd</ClosedNode>
          <ClosedNode>/rs_latch - Behavioral E:|xilinx|projects|lab3-4|rs_latch.vhd</ClosedNode>
          <ClosedNode>/rs_latch - Behavioral E:|xilinx|projects|lab3-4|rs_latch.vhd/u1 - rs_latch_struct - Struct</ClosedNode>
          <ClosedNode>/rs_latch - Behavioral E:|xilinx|projects|lab3-4|rs_latch.vhd/u2 - rs_latch_beh - Behavioral</ClosedNode>
          <ClosedNode>/rs_latch - Behavioral E:|xilinx|projects|lab3-4|rs_latch.vhd/u3 - rs_latch_param - Param</ClosedNode>
          <ClosedNode>/rs_latch - Struct E:|xilinx|projects|lab3-4|rs_latch.vhd</ClosedNode>
          <ClosedNode>/rs_latch_struct - Struct E:|xilinx|projects|lab3-4|rs_latch_struct.vhd</ClosedNode>
+         <ClosedNode>/sreg_struct - Behavioral E:|xilinx|projects|lab3-4|sreg_struct.vhd</ClosedNode>
+         <ClosedNode>/sreg_struct - Behavioral E:|xilinx|projects|lab3-4|sreg_struct.vhd/u0 - fdcpe - Behavioral</ClosedNode>
+         <ClosedNode>/sreg_struct - Behavioral E:|xilinx|projects|lab3-4|sreg_struct.vhd/ui - fdcpe - Behavioral</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>fdp - Behavioral (E:/xilinx/projects/lab3-4/fdp.vhd)</SelectedItem>
+         <SelectedItem>sreg_struct - Behavioral (E:/xilinx/projects/lab3-4/sreg_struct.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >4</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >8</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000010e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000010e0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000156000000020000000000000000000000000200000064ffffffff000000810000000300000002000001560000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>fdp - Behavioral (E:/xilinx/projects/lab3-4/fdp.vhd)</CurrentItem>
+      <CurrentItem>sreg_struct - Behavioral (E:/xilinx/projects/lab3-4/sreg_struct.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -44,13 +60,13 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>View RTL Schematic</SelectedItem>
+         <SelectedItem>View Technology Schematic</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016d0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>View RTL Schematic</CurrentItem>
+      <CurrentItem>View Technology Schematic</CurrentItem>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -83,13 +99,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
       <ClosedNodes>
@@ -102,23 +118,31 @@
          <ClosedNode>/dec_latch_TB - behavior E:|xilinx|projects|lab3-4|dec_latch_TB.vhd</ClosedNode>
          <ClosedNode>/dep_latch_TB - behavior E:|xilinx|projects|lab3-4|dep_latch_TB.vhd</ClosedNode>
          <ClosedNode>/fd_TB - behavior E:|xilinx|projects|lab3-4|fd_TB.vhd</ClosedNode>
+         <ClosedNode>/fd_master_slave_TB - behavior E:|xilinx|projects|lab3-4|fd_master_slave_TB.vhd</ClosedNode>
          <ClosedNode>/fdc_TB - behavior E:|xilinx|projects|lab3-4|fdc_TB.vhd</ClosedNode>
+         <ClosedNode>/fdcpe_TB - behavior E:|xilinx|projects|lab3-4|fdcpe_TB.vhd</ClosedNode>
          <ClosedNode>/fde_TB - behavior E:|xilinx|projects|lab3-4|fde_TB.vhd</ClosedNode>
          <ClosedNode>/fdp_TB - behavior E:|xilinx|projects|lab3-4|fdp_TB.vhd</ClosedNode>
+         <ClosedNode>/fjk_TB - behavior E:|xilinx|projects|lab3-4|fjk_TB.vhd</ClosedNode>
+         <ClosedNode>/frs_TB - behavior E:|xilinx|projects|lab3-4|frs_TB.vhd</ClosedNode>
+         <ClosedNode>/ft_TB - behavior E:|xilinx|projects|lab3-4|ft_TB.vhd</ClosedNode>
+         <ClosedNode>/reg_async_struct - Behavioral E:|xilinx|projects|lab3-4|reg_async_struct.vhd</ClosedNode>
+         <ClosedNode>/reg_sync_struct - Behavioral E:|xilinx|projects|lab3-4|reg_sync_struct.vhd</ClosedNode>
          <ClosedNode>/rs_latch - Struct E:|xilinx|projects|lab3-4|rs_latch.vhd</ClosedNode>
          <ClosedNode>/rs_latch_TB - behavior E:|xilinx|projects|lab3-4|rs_latch_TB.vhd</ClosedNode>
          <ClosedNode>/rs_latch_TB - behavior E:|xilinx|projects|lab3-4|rs_latch_TB.vhd/uut - rs_latch - Behavioral/u1 - rs_latch_struct - Struct</ClosedNode>
+         <ClosedNode>/sreg_struct - Behavioral E:|xilinx|projects|lab3-4|sreg_struct.vhd</ClosedNode>
          <ClosedNode>/testbench - behavior E:|xilinx|projects|lab3-4|de_latch_TB.vhd</ClosedNode>
          <ClosedNode>/testbench - behavior E:|xilinx|projects|lab3-4|fdcpe_TB.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>fdp_TB - behavior (E:/xilinx/projects/lab3-4/fdp_TB.vhd)</SelectedItem>
+         <SelectedItem>ft_TB - behavior (E:/xilinx/projects/lab3-4/ft_TB.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >6</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >11</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012b0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000016b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000016b0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>fdp_TB - behavior (E:/xilinx/projects/lab3-4/fdp_TB.vhd)</CurrentItem>
+      <CurrentItem>ft_TB - behavior (E:/xilinx/projects/lab3-4/ft_TB.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -126,13 +150,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -179,12 +203,12 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
 </Project>

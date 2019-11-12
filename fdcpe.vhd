@@ -30,9 +30,9 @@ use IEEE.STD_LOGIC_1164.ALL;
 --use UNISIM.VComponents.all;
 
 entity fdcpe is
-    Port ( CLR : in  STD_LOGIC;
-           PRE : in  STD_LOGIC;
-           CE : in  STD_LOGIC;
+    Port ( CLR : in  STD_LOGIC := '0';
+           PRE : in  STD_LOGIC := '0';
+           CE : in  STD_LOGIC := '0';
            CLK : in  STD_LOGIC;
            D : in  STD_LOGIC;
            Q : out  STD_LOGIC;

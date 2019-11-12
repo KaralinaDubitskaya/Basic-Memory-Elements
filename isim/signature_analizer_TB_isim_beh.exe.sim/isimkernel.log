@@ -1,0 +1,28 @@
+Command line:
+   signature_analizer_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  65194
+
+Wed Nov 13 01:17:23 2019
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 1042.86 Meg
+
+ Total Signals          : 10
+ Total Nets             : 30
+ Total Signal Drivers   : 6
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 6
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 411
+
+ Total Simulation Time: 0.1875 sec
+
+ Current Memory Usage: 885.576 Meg
+
+Wed Nov 13 01:18:31 2019
+

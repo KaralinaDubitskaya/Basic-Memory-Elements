@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/reg_sync_beh.xst" -ofn "E:/xilinx/projects/lab3-4/reg_sync_beh.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim reg_sync_beh.ngc reg_sync_beh_synthesis.v 

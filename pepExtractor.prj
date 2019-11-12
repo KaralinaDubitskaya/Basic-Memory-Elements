@@ -1,1 +1,2 @@
-work	"ftc.vhd"
+work	"fdcpe.vhd"
+work	"sreg_struct.vhd"

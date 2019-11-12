@@ -5,5 +5,8 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"E:\xilinx\projects\lab3-4\reg_sync_beh.vhd" Line 49: <arg fmt="%s" index="1">clk</arg> should be on the sensitivity list of the process
+</msg>
+
 </messages>
 

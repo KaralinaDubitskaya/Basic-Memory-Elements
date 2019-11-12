@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/sreg_beh.xst" -ofn "E:/xilinx/projects/lab3-4/sreg_beh.syr" 
+xst -intstyle ise -ifn "E:/xilinx/projects/lab3-4/sreg_beh.xst" -ofn "E:/xilinx/projects/lab3-4/sreg_beh.syr" 
